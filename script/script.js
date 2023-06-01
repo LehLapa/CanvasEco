@@ -34,16 +34,41 @@ ctx.moveTo(47, 76);
 ctx.lineTo(113, 76);
 ctx.stroke();
 
+ctx.beginPath();
+ctx.moveTo(49, 80);
+ctx.lineTo(111, 80);
+ctx.stroke();
+
 //canto da boca direito
 ctx.beginPath();
 ctx.moveTo(113, 76);
 ctx.lineTo(117, 83);
 ctx.stroke();
 
+ctx.beginPath();
+ctx.moveTo(110, 80);
+ctx.lineTo(112, 83);
+ctx.stroke();
+
+ctx.beginPath();
+ctx.moveTo(117, 83);
+ctx.lineTo(112, 83);
+ctx.stroke();
+
 //canto da boca esquerdo
 ctx.beginPath();
 ctx.moveTo(42, 83);
 ctx.lineTo(47, 76);
+ctx.stroke();
+
+ctx.beginPath();
+ctx.moveTo(47, 83);
+ctx.lineTo(50, 80);
+ctx.stroke();
+
+ctx.beginPath();
+ctx.moveTo(47, 83);
+ctx.lineTo(42, 83);
 ctx.stroke();
 
 //olho esquerdo
