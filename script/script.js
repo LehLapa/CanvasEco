@@ -5,19 +5,13 @@ const ctx = canvas.getContext('2d');
 ctx.beginPath();
 ctx.moveTo(20, 90);
 ctx.quadraticCurveTo(60, 105, 140, 90);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(140, 90);
 ctx.quadraticCurveTo(140, 90, 130, 30);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(20, 90);
 ctx.quadraticCurveTo(30, 30, 30, 30);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(30, 30);
 ctx.quadraticCurveTo(80, 10, 130, 30);
 ctx.stroke();
@@ -29,29 +23,6 @@ ctx.lineTo(80, 97);
 ctx.stroke();
 
 //boca
-ctx.fillStyle='green';
-ctx.beginPath();
-ctx.moveTo(47, 76);
-ctx.lineTo(113, 76);
-
-ctx.lineTo(111, 80);
-
-//canto da boca direito
-ctx.lineTo(117, 83);
-
-ctx.lineTo(112, 83);
-
-ctx.lineTo(112, 83);
-
-//canto da boca esquerdo
-ctx.lineTo(47, 76);
-
-ctx.lineTo(50, 80);
-
-ctx.lineTo(42, 83);
-ctx.fill();
-
-//contorno da boca
 ctx.beginPath();
 ctx.moveTo(47, 76);
 ctx.lineTo(113, 76);
