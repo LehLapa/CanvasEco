@@ -29,44 +29,51 @@ ctx.lineTo(80, 97);
 ctx.stroke();
 
 //boca
+ctx.fillStyle='green';
 ctx.beginPath();
 ctx.moveTo(47, 76);
 ctx.lineTo(113, 76);
-ctx.stroke();
 
-ctx.beginPath();
-ctx.moveTo(49, 80);
 ctx.lineTo(111, 80);
-ctx.stroke();
 
 //canto da boca direito
-ctx.beginPath();
-ctx.moveTo(113, 76);
 ctx.lineTo(117, 83);
-ctx.stroke();
 
-ctx.beginPath();
-ctx.moveTo(110, 80);
 ctx.lineTo(112, 83);
-ctx.stroke();
 
-ctx.beginPath();
-ctx.moveTo(117, 83);
 ctx.lineTo(112, 83);
-ctx.stroke();
 
 //canto da boca esquerdo
-ctx.beginPath();
-ctx.moveTo(42, 83);
 ctx.lineTo(47, 76);
-ctx.stroke();
 
+ctx.lineTo(50, 80);
+
+ctx.lineTo(42, 83);
+ctx.fill();
+
+//contorno da boca
 ctx.beginPath();
+ctx.moveTo(47, 76);
+ctx.lineTo(113, 76);
+
+ctx.moveTo(49, 80);
+ctx.lineTo(111, 80);
+
+ctx.moveTo(113, 76); //canto da boca direito
+ctx.lineTo(117, 83);
+
+ctx.moveTo(110, 80);
+ctx.lineTo(112, 83);
+
+ctx.moveTo(117, 83);
+ctx.lineTo(112, 83);
+
+ctx.moveTo(42, 83); //canto da boca esquerdo
+ctx.lineTo(47, 76);
+
 ctx.moveTo(47, 83);
 ctx.lineTo(50, 80);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(47, 83);
 ctx.lineTo(42, 83);
 ctx.stroke();
@@ -75,19 +82,13 @@ ctx.stroke();
 ctx.beginPath();
 ctx.moveTo(40, 45);
 ctx.lineTo(70, 50);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(40, 50);
 ctx.lineTo(70, 55);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(40, 45);
 ctx.lineTo(40, 50);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(70, 55);
 ctx.lineTo(70, 50);
 ctx.stroke();
@@ -96,19 +97,13 @@ ctx.stroke();
 ctx.beginPath();
 ctx.moveTo(120, 45);
 ctx.lineTo(90, 50);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(120, 50);
 ctx.lineTo(90, 55);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(90, 50);
 ctx.lineTo(90, 55);
-ctx.stroke();
 
-ctx.beginPath();
 ctx.moveTo(120, 50);
 ctx.lineTo(120, 45);
 ctx.stroke();
