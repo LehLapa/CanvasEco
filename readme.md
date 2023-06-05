@@ -1,4 +1,4 @@
-Atividade do canvnas passada em aula
+Atividade do canvas passada em aula
 Criação de arquivo HTML com especificação de idioma para o português
     Cabeçalho do HTML
         Criação de título da página
