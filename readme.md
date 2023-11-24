@@ -16,6 +16,8 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
 ![image](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/1f8b053b-4f00-4559-97db-81014db6db34)
 
 ##
+# Desenvolvimento - Início/Criação
+
 #### Criação do arquivo HTML
     - Criação de arquivo HTML com especificação de idioma para o português
     - Cabeçalho do HTML
@@ -50,7 +52,7 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
     - Finalização de arquivo JS
 ##
 # Scripts 
-Esclarecendo Scripts utilizados.
+Esclarecendo Scripts utilizados no trabalho.
 
 #### Cabeça
 ![cabeca](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/03ba19f1-3fe3-40c0-a85f-0e8192e85ee0)
