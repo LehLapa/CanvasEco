@@ -15,6 +15,7 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
 ## Imagem do Projeto 
 ![image](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/1f8b053b-4f00-4559-97db-81014db6db34)
 
+##
 #### Criação do arquivo HTML
     - Criação de arquivo HTML com especificação de idioma para o português
     - Cabeçalho do HTML
