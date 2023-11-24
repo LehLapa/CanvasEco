@@ -1,7 +1,7 @@
 # Atividade Desenho Canvas - BEN 10 
 Esse projeto segue instruções passadas em aula, para fins de estudo, conhecimento e prática! Utilizamos JavaScript para realizar o desenho escolhido. 
 
-**Desenho:** Massa Cinzenta, desenho animado BEN 10
+**Desenho:** ECO, personagem do desenho animado: BEN 10
 
 - Esse trabalho foi criado em dupla (Jun/2023) com o propóstio de aprendizagem! E está sendo totalmente atualizado por Letícia da Lapa.
 
