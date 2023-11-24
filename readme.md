@@ -29,7 +29,7 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
         3. Script conectando o Javascript no HTML
     - Finalização do corpo
     - Finalização de arquivo HTML
-    
+##
 #### Criação de arquivo CSS
     - Definição da cor de fundo da página para branco
         1. Alinhamento do texto centralizado
@@ -37,6 +37,7 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
         3. Definição da cor do texto para preto
         4. Definição da cor do fundo do h1 para verde usanod RGB
     - Finalização de arquivo CSS
+##
 #### Criação de arquivo JS
     - Definição da constante canvas com getElementById
         1. beginPath e quadraticCurveTo fazem a cabeça do Eco (personagem escolhido)
@@ -45,3 +46,4 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
         4. O quarto beginPath e os lineTo fazem o olho esquerdo do Eco
         5. O quinto beginPath e os lineTo fazem o olho direito do personagem
     - Finalização de arquivo JS
+##
