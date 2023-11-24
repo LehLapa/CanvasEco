@@ -49,3 +49,29 @@ Esse projeto segue instruções passadas em aula, para fins de estudo, conhecime
         5. O quinto beginPath e os lineTo fazem o olho direito do personagem
     - Finalização de arquivo JS
 ##
+# Scripts 
+Esclarecendo Scripts utilizados.
+
+#### Cabeça
+![cabeca](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/03ba19f1-3fe3-40c0-a85f-0e8192e85ee0)
+- **moveTo** move o ponto inicial de um novo sub-caminho *(sub-path)* para as coordenadas *(x, y)*.
+- **quadraticCurveTo** adiciona uma Curva de Bézier quadrática ao caminho. São exigidos dois pontos. O primeiro ponto é um ponto de controle e o segundo é o ponto final.
+
+#### Olhos
+![olhos](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/e375a6b1-aac4-451f-a69e-0b3c71fee32c)
+- **moveTo** move o ponto inicial de um novo sub-caminho *(sub-path)* para as coordenadas *(x, y)*.
+- **lineTo** conecta o último ponto do sub-caminho *(sub-path)* para as coordenadas *x, y,* através de uma linha (mas na realidade não a desenha).
+
+#### Boca e Contorno
+![linha e boca](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/3b3936c7-100d-475b-a31b-7e8e80ada05e)
+
+![cantos boca](https://github.com/LehLapa/Atv.Desenho-Canvas/assets/128638269/3d8808ba-6fa0-4d85-8688-ab1960be7f0d)
+
+- **moveTo** move o ponto inicial de um novo sub-caminho *(sub-path)* para as coordenadas *(x, y)*.
+- **lineTo** conecta o último ponto do sub-caminho *(sub-path)* para as coordenadas *x, y,* através de uma linha (mas na realidade não a desenha).
+
+
+
+
+
+
